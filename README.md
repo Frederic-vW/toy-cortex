@@ -19,7 +19,7 @@ Runs entirely in the browser via [JupyterLite](https://jupyterlite.readthedocs.i
    `.github/workflows/deploy.yml` workflow builds the JupyterLite site and
    deploys it to Pages automatically.
 4. The site (including the notebook, launchable directly in-browser) will be
-   available at `https://<username>.github.io/<repo-name>/lab/index.html?path=eeg-rhythms-jlite.ipynb`
+   available at `https://Frederic-vW.github.io/toy-cortex/lab/index.html?path=eeg-rhythms-jlite.ipynb`
    (or via the JupyterLite tree/retro view at the site root).
 
 ## Local build (optional, to preview before pushing)
