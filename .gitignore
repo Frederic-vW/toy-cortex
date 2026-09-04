@@ -1,0 +1,4 @@
+_output/
+.ipynb_checkpoints/
+__pycache__/
+.jupyterlite.doit.db
