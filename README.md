@@ -7,6 +7,8 @@ EEG frequency bands.
 
 Notebook: [`content/eeg-rhythms-jlite.ipynb`](content/eeg-rhythms-jlite.ipynb)
 
+App: [Run it!](https://Frederic-vW.github.io/toy-cortex/lab/index.html?path=eeg-rhythms-jlite.ipynb)
+
 Runs entirely in the browser via [JupyterLite](https://jupyterlite.readthedocs.io/)
 (Pyodide kernel) — no local Python install needed. Only `numpy`, `scipy`, and
 `matplotlib` are used, all of which are available in the Pyodide kernel.
